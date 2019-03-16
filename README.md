@@ -18,4 +18,6 @@ $ docker build -t flask_sample .
 Run
 ```
 $ docker run -p 5000:5000 -it flask_sample
+
+// http://localhost:5000/
 ```
