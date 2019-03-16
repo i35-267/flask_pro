@@ -1,4 +1,4 @@
-# flask_sample
+# flask_pro
 pythonのマイクロフレームワーク flask学習用
 
 
